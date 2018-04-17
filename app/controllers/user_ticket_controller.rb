@@ -1,0 +1,2 @@
+class UserTicketController < ApplicationController
+end
